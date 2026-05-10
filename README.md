@@ -9,4 +9,5 @@ Traveloop is an AI-powered smart travel companion designed to make trip planning
 - **Backend & APIs:** Node.js / Express.js  
 
 Traveloop combines AI-driven travel assistance with an intuitive user experience to create a smarter way to explore the world.
-<img width="1600" height="1551" alt="image" src="https://github.com/user-attachments/assets/4e0b1c91-0e5d-4df4-acad-fe4224f5ad27" />
+<img width="1064" height="1600" alt="image" src="https://github.com/user-attachments/assets/e27d8379-fc86-4f41-b1b3-2aa27e6ff2dd" />
+
